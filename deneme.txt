@@ -1,1 +1,3 @@
 Git_GitHub ilk gun
+Git controlu
+
